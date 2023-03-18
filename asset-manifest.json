@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/image-flip-app/static/css/main.43472737.css",
+    "main.js": "/image-flip-app/static/js/main.4ea248ba.js",
+    "static/js/787.28cb0dcd.chunk.js": "/image-flip-app/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/image-flip-app/index.html",
+    "main.43472737.css.map": "/image-flip-app/static/css/main.43472737.css.map",
+    "main.4ea248ba.js.map": "/image-flip-app/static/js/main.4ea248ba.js.map",
+    "787.28cb0dcd.chunk.js.map": "/image-flip-app/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43472737.css",
+    "static/js/main.4ea248ba.js"
+  ]
+}
